@@ -1,6 +1,6 @@
 ## Clone an Entire Repository
 
-To copy a complete repository from [GitHub](https://github.com?utm_source=chatgpt.com) to your local machine:
+To copy a complete repository from <b> GitHub </b> to your local machine:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/kmit-project.git
